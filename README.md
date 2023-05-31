@@ -83,7 +83,6 @@ To run the project, execute the following command:
 
 ```sh
   Open the project in live server (VS Code) or Open the index.html file on your browser.
-
 ```
 
 ### Run Linters tests
@@ -94,8 +93,7 @@ To run tests, run the following command:
   npx hint . 
   
   npx stylelint "**/*.{css,scss}" --fix
-
-  ...
+```
 
 <!-- AUTHORS -->
 
@@ -114,7 +112,7 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Include other sections.**
+- **Include other website sections.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

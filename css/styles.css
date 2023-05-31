@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+
+.header {
+  color: crimson;
+  text-align: center;
+  margin: 15px 0;
+}
